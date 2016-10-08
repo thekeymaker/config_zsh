@@ -14,5 +14,5 @@ compinit
 
 autoload -Uz promptinit
 promptinit
-prompt adam2
+prompt pws
 
